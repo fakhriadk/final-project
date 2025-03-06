@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "EasyBot"
 include(":app")
+include(":LoginPage")
